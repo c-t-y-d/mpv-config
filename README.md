@@ -11,3 +11,5 @@ Set the filepath for output_directory located in Line 18.
 mpv.conf: 
 Set the filepath for screenshot-directory in Line 70.
 ```
+
+###### Kudos to [cyl0](https://github.com/cyl0) for his ModernX script.
